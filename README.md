@@ -65,3 +65,24 @@ The method `server.attach()` accepts two parameters, gvim server name to attach 
 ```
 :call MHPeer.open_buffer()
 ```
+
+### MarksBrowser
+**Requires**: two instances (main & support).
+
+**Provides**: Marks Browser plugin in detached window.
+
+**Notes**: Beta version, basic usability. Available from [here](https://github.com/bortigel/Marks-Browser).
+
+### Taglist
+**Requires**: two instances (main & support).
+
+**Provides**: Taglist plugin in detached window.
+
+**Notes**: Beta version, basic usability. Available from [here](https://github.com/bortigel/taglist.vim).
+
+### NERDTreeMH
+**Requires**: two instances (main & support).
+
+**Provides**: NERDTree plugin in detached window.
+
+**Notes**: Beta version, basic usability. Available from [here](https://github.com/bortigel/Marks-Browser).
